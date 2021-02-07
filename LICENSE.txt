@@ -1,0 +1,2 @@
+See LICENSE file in each Repo. if there is not, the original author reserves the copyright.
+This summary of awesome projects is under CC BY-SA 4.0 License.
