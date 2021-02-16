@@ -59,6 +59,10 @@ EUserv: https://github.com/CokeMine/EUserv_extend By [可乐呀](https://www.hos
 
 hostloc-auto-get-points: https://github.com/inkuang/hostloc-auto-get-points By [夕日](https://www.hostloc.com/space-uid-36577.html)
 
+3、**联想商城自动签到**
+
+lenovo_auto_signin: https://github.com/cmodog By [silence](https://www.hostloc.com/space-uid-34689.html)
+
 ## 探针
 
 1、**哪吒探针**
